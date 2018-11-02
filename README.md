@@ -1,2 +1,4 @@
 # open-cv
-detecting face, eyes and smile
+SMILE detector from webcam.
+
+detecting face, eyes and smile.
